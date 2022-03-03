@@ -16,7 +16,7 @@ import json
 
 import datetime
 from typing import List
-from uuid import UUID
+
 
 # talvez separar essas Ferramentas em arquivo separado
 # Carrega o objeto json e transforma em objetos dentro da classe UR (basicamente converte o Json em um objeto)
